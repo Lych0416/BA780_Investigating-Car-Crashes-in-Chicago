@@ -1,6 +1,6 @@
 # BA_780_Project
 
-#**Improving Safety: Chicago Accident Data Analysis**
+**Improving Safety: Chicago Accident Data Analysis**
 
 
 ---
